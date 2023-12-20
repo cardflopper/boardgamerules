@@ -61,7 +61,7 @@ Players do the following steps
 * Rank 2: $4/9 = 1/2 scouts
 * Rank 3: $3/7/12 = 1/2/3 scouts
 * Rank 4: $2/5/9/14 = 1/2/3/4 scouts
-* Place scouts in any of the 5 regions.
+* Can place scouts in any of the 5 regions.
 * Max 1 scout per region for a scout action
 
 ### Fight

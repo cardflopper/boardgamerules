@@ -35,11 +35,12 @@
 
 ## Player Turn
 
-Players take 3 actions, any mixture of actions, even repeating the same multiple times.
+Players do the following steps
 
 1. Upgrade action track
+    * remove one cube (leftmost in a row)
 2. Take three actions
-3. Set up Camp (optional)
+    * repeating is allowed
 
 ## Actions
 

@@ -45,20 +45,20 @@ Players do the following phases
 
 #### Main steps
 
-* 1. Reveal a **open monster**. If no open monster is available, draw one.
-* 2. Select a monster.
-  * Monster in front of player? Proceed with Attack or Pass monster to left.
-  * No Monster in front of player? Take reserve monster or draw one, if deck is empty skip rest of turn.
-* 3. Attack. Choose a weapon to battle with. No weapon = default 1 melee damage
-* 4. Monster Attacks
-  * Player or monster defeated? go to step 5
-  * Neither player or monster is defeated: Skip step 5, next player takes their battle turn.
-* 5. Combat result
-  * If player is defeated, they lose a skill and sit out for the rest of this Battle phase but still collect gold.
-  * If monster is defeated
-    * deal out gold 1 at a time, active player -> left -> right (repeat)
-    * check if trophies are awarded
-    * player will fight another monster next battle turn
+1. Reveal a **open monster**. If no open monster is available, draw one.
+2. Select a monster.
+    * Monster in front of player? Proceed with Attack or Pass monster to left.
+    * No Monster in front of player? Take reserve monster or draw one, if deck is empty skip rest of turn.
+3. Attack. Choose a weapon to battle with. No weapon = default 1 melee damage
+4. Monster Attacks
+    * Player or monster defeated? go to step 5
+    * Neither player or monster is defeated: Skip step 5, next player takes their battle turn.
+5. Combat result
+    * If player is defeated, they lose a skill and sit out for the rest of this Battle phase but still collect gold.
+    * If monster is defeated
+      * deal out gold 1 at a time, active player -> left -> right (repeat)
+      * check if trophies are awarded
+      * player will fight another monster next battle turn
 
 #### End of Battle
 

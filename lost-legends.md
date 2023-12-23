@@ -66,15 +66,15 @@ Players do the following phases
 
 ## Trophies
 
-### Challenge
+### Challenge trophy
 
 * When a monster is defeated, check the corresponding challenge trophy for that monster type. There are 3 cases:
 
 1. Trophy is unclaimed: The active player takes the trophy and 1 VP
-2. Trophy is owned by another player: If the active player equals other player, the active player takes trohpy and 1 VP
+2. Trophy is owned by another player: If the active player equals other player, the active player takes trophy and 1 VP
 3. Active player already has the trophy: nothing happens.
 
-### Collection
+### Collection trophy
 
 * When a monster is defeated, if the set collection requirements are met, the player is awarded the topmost trophy from the stack.
 * Players may only gain one trophy from each of the 6 stacks

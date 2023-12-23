@@ -10,8 +10,8 @@
     * [Main Steps](#main-steps)
     * [End of Battle](#end-of-battle)
 * [Trophies](#trophies)
-  * [Challege](#challenge)
-  * [Collection](#collection)
+  * [Challenge trophy](#challenge-trophy)
+  * [Collection trophy](#collection-trophy)
 * [Charge](#charge)
 * [Final Scoring](#final-scoring)
 
@@ -24,6 +24,8 @@
   * gold according to board
 * Form a monster deck for each level, with 3 cards per player
 * Form the equipment deck by removing cards for 3/4 players
+* Lay out 6 stacks of collection trophies: face-up with highest VP value on top (decreasing)
+* Lay out 4 challege trophies
 
 ## Player Turn
 
@@ -45,16 +47,16 @@ Players do the following phases
 
 #### Main steps
 
-1. Reveal a **open monster**. If no open monster is available, draw one.
+1. Reveal a monster, place it beside the monster deck. This is called the "open" monster. If no open monster is available, draw one.
 2. Select a monster.
     * Monster in front of player? Proceed with Attack or Pass monster to left.
-    * No Monster in front of player? Take reserve monster or draw one, if deck is empty skip rest of turn.
+    * No Monster in front of player? Take the open monster or draw a new one, if deck is empty skip rest of turn.
 3. Attack. Choose a weapon to battle with. No weapon = default 1 melee damage
 4. Monster Attacks
     * Player or monster defeated? go to step 5
     * Neither player or monster is defeated: Skip step 5, next player takes their battle turn.
 5. Combat result
-    * If player is defeated, they lose a skill and sit out for the rest of this Battle phase but still collect gold.
+    * If player is defeated, they lose a skill card and sit out for the rest of this Battle phase but still collect gold.
     * If monster is defeated
       * deal out gold 1 at a time, active player -> left -> right (repeat)
       * check if trophies are awarded
@@ -62,7 +64,7 @@ Players do the following phases
 
 #### End of Battle
 
-* When the last monster is drawn, each player takes one more turn to attempt to defeat their monster but they skip step 1 and 2. If the monster isn't defeated, it escapes and is returned to the box.
+* When the last monster is drawn, each player takes one more turn to attempt to defeat their monster but they skip Battle step 1 and 2. If the monster isn't defeated, it escapes and is returned to the box.
 
 ## Trophies
 

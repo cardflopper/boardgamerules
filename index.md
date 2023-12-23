@@ -3,4 +3,5 @@
 ## Games List
 
 * [**Lewis & Clark: The Expedition**](lewis-&-clark-the-expedition.md)
+* [**Lost Legends**](lost-legends.md)
 * [**Warband: Against the Darkness**](warband-against-the-darkness.md)

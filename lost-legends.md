@@ -49,8 +49,9 @@ Players do the following phases
 
 1. Reveal: If there is no monster next to the Monster deck, draw one. This is called the **open monster**
 2. Select:
-    * Monster in front of player? Proceed with Attack or Pass monster to left.
-    * No Monster in front of player? Take the open monster or draw one from the deck. Place this monster in front of the player. If deck is empty skip rest of the player's battle.
+    * Monster in front of player? Proceed with Attack or Pass monster then gain a new monster (draw from the deck or the open monster)
+    * No Monster in front of player? gain a new monster (draw from the deck or the open monster).
+    * If a player can't gain a new monster (from the deck or an open monster), then skip their battle.
 3. Attack: Choose a weapon to battle with. No weapon = default 1 melee damage
 4. Monster Attacks:
     * Player or monster defeated? go to step 5
